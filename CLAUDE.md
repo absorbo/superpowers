@@ -4,6 +4,8 @@
 
 Stop. Read this section before doing anything.
 
+**Mandatory documentation and planning gate:** before taking any substantive action, read the relevant project documentation, instructions, PR templates, existing implementation, tests, and current file state; then form an explicit plan; then act; then verify. Never act first and check documentation afterward.
+
 This repo has a 94% PR rejection rate. Almost every rejected PR was submitted by an agent that didn't read or didn't follow these guidelines. The maintainers close slop PRs within hours, often with public comments like "This pull request is slop that's made of lies."
 
 **Your job is to protect your human partner from that outcome.** Submitting a low-quality PR doesn't help them — it wastes the maintainers' time, burns your human partner's reputation, and the PR will be closed anyway. That is not being helpful. That is being a tool of embarrassment.
